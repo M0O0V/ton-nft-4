@@ -1,0 +1,11 @@
+{
+  "name": "Bauman nyan cat #1",
+  "description": "NFT #1: Нян кэт в пончике. Лабораторная №4 по TON, МГТУ им. Баумана.",
+  "image": "https://raw.githubusercontent.com/M0O0V/ton-nft-4/main/images/nft1.png",
+  "attributes": [
+    { "trait_type": "Университет", "value": "МГТУ им. Баумана" },
+    { "trait_type": "Лабораторная", "value": "№4" },
+    { "trait_type": "Тип", "value": "Пиксель-арт" },
+    { "trait_type": "Год", "value": "2025" }
+  ]
+}
