@@ -1,0 +1,11 @@
+{
+  "name": "Bauman TON Core #2",
+  "description": "NFT #2: Логотип TON. Создан в рамках ЛР №4 по блокчейну.",
+  "image": "https://raw.githubusercontent.com/M0O0V/ton-nft-4/main/images/nft2.png",
+  "attributes": [
+    { "trait_type": "Университет", "value": "МГТУ им. Баумана" },
+    { "trait_type": "Лабораторная", "value": "№4" },
+    { "trait_type": "Блокчейн", "value": "TON" },
+    { "trait_type": "Год", "value": "2025" }
+  ]
+}
