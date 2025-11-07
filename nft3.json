@@ -1,7 +1,7 @@
 {
   "name": "Bauman PEPE #3",
   "description": "ПереКоин. ЛР №4, Бауманка.",
-  "image": "https://raw.githubusercontent.com/M0O0V/ton-nft-4/main/images/nft3.png",
+  "image": "https://raw.githubusercontent.com/M0O0V/ton-nft-4/main/images/nft3.png ПРОВЕРКА",
   "attributes": [
     { "trait_type": "Университет", "value": "МГТУ им. Баумана" },
     { "trait_type": "Лабораторная", "value": "№4" },
