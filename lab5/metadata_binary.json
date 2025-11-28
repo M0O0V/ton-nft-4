@@ -1,0 +1,8 @@
+{
+  "name": "PepeTramp",
+  "symbol": "MAMA2",
+  "description": "MEME FOREVER",
+  "image": "https://raw.githubusercontent.com/M0O0V/ton-nft-4/main/lab5/PepeTramp.png",
+  "decimals": "9",
+  "amount_style": "space"
+}
